@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac1d6a89-f99c-487d-9dd8-42ff74d25b30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1thART4aLty7cSmKa6WC0xOQ0hS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day7-protobuf" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day7-protobuf" />
+      <recent name="$PROJECT_DIR$/dsy6-singleflight" />
+      <recent name="$PROJECT_DIR$/day5-multi-nodes" />
+      <recent name="$PROJECT_DIR$/day4-consistent-hash" />
+      <recent name="$PROJECT_DIR$/day3-http-server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day5-multi-nodes/geecache" />
+      <recent name="$PROJECT_DIR$/day5-multi-nodes/consistenthash" />
+      <recent name="$PROJECT_DIR$/day3-http-server" />
+      <recent name="$PROJECT_DIR$/day3-http-server/geecache/lru" />
+      <recent name="$PROJECT_DIR$/day3-http-server/geecache" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.test.sh (3)">
+    <configuration name="TestHashing in geecache" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gee-cache" />
+      <working_directory value="$PROJECT_DIR$/day4-consistent-hash/geecache" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="geecache" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHashing\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.sh (1)" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/day7-protobuf/test.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/day7-protobuf" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.sh (2)" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/day5-multi-nodes/test.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/day5-multi-nodes" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.sh (3)" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/day6-singleflight/test.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/day6-singleflight" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/dsy6-singleflight/test.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/dsy6-singleflight" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.test.sh (3)" />
+        <item itemvalue="Shell Script.test.sh (2)" />
+        <item itemvalue="Shell Script.test.sh (1)" />
+        <item itemvalue="Shell Script.test.sh" />
+        <item itemvalue="Go Test.TestHashing in geecache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1063" y="375" key="#Go_Modules" timestamp="1623225087509">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state x="1063" y="375" key="#Go_Modules/54.25.1626.1025@54.25.1626.1025" timestamp="1623225087509" />
+    <state x="54" y="104" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623483586271">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state x="54" y="104" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.25.1626.1025@54.25.1626.1025" timestamp="1623483586271" />
+    <state width="1584" height="132" key="GridCell.Tab.0.bottom" timestamp="1623641121518">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state width="1584" height="132" key="GridCell.Tab.0.bottom/54.25.1626.1025@54.25.1626.1025" timestamp="1623641121518" />
+    <state width="1584" height="132" key="GridCell.Tab.0.center" timestamp="1623641121517">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state width="1584" height="132" key="GridCell.Tab.0.center/54.25.1626.1025@54.25.1626.1025" timestamp="1623641121517" />
+    <state width="1584" height="132" key="GridCell.Tab.0.left" timestamp="1623641121517">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state width="1584" height="132" key="GridCell.Tab.0.left/54.25.1626.1025@54.25.1626.1025" timestamp="1623641121517" />
+    <state width="1584" height="132" key="GridCell.Tab.0.right" timestamp="1623641121518">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state width="1584" height="132" key="GridCell.Tab.0.right/54.25.1626.1025@54.25.1626.1025" timestamp="1623641121518" />
+    <state x="275" y="197" key="SettingsEditor" timestamp="1623652923820">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state x="275" y="197" key="SettingsEditor/54.25.1626.1025@54.25.1626.1025" timestamp="1623652923820" />
+    <state x="928" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1623641222292">
+      <screen x="54" y="25" width="1626" height="1025" />
+    </state>
+    <state x="928" y="252" width="670" height="676" key="search.everywhere.popup/54.25.1626.1025@54.25.1626.1025" timestamp="1623641222292" />
+  </component>
+</project>

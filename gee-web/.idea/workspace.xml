@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f76f335d-8bc1-4781-8330-af27aa52ae09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1rcKoxERLt4ZYCXOXrMIPZ4Iv1U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day7-panic-recover" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day7-panic-recover" />
+      <recent name="$PROJECT_DIR$/day6-template" />
+      <recent name="$PROJECT_DIR$/day5-middleware" />
+      <recent name="$PROJECT_DIR$/day4-group" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day1-http-base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build day5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gee-web" />
+      <working_directory value="$PROJECT_DIR$/day5-middleware" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day5-middleware/main.go" />
+      <package value="day5" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gee-web/day6-template" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gee-web" />
+      <working_directory value="$PROJECT_DIR$/day6-template" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day6-template/main.go" />
+      <package value="gee-web/day6-template" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gee-web/day7" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gee-web" />
+      <working_directory value="$PROJECT_DIR$/day7-panic-recover" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day7-panic-recover/main.go" />
+      <package value="gee-web/day7" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gee-web" />
+      <working_directory value="$PROJECT_DIR$/day5-middleware" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day5-middleware/main.go" />
+      <package value="gee-web" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gee-web" />
+      <working_directory value="$PROJECT_DIR$/day4-group" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day4-group/main.go" />
+      <package value="gee-web" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build gee-web/day7" />
+        <item itemvalue="Go Build.go build gee-web/day6-template" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build day5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="375" key="#Go_Modules" timestamp="1619272048284">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="640" y="375" key="#Go_Modules/0.25.1680.1025@0.25.1680.1025" timestamp="1619272048284" />
+    <state x="440" y="200" width="800" height="723" key="#Intentions" timestamp="1619521734648">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="440" y="200" width="800" height="723" key="#Intentions/0.25.1680.1025@0.25.1680.1025" timestamp="1619521734648" />
+    <state x="569" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620095824106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="569" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1112.168.1112.770/0.0.1680.1050@0.0.1680.1050" timestamp="1620095824106" />
+    <state x="491" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1619521567327">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="491" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1619521567327" />
+    <state width="792" height="226" key="GridCell.Tab.0.bottom" timestamp="1620704073380">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.bottom/-1112.168.1112.770/0.0.1680.1050@0.0.1680.1050" timestamp="1620097759532" />
+    <state width="792" height="226" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1620704073380" />
+    <state width="1638" height="272" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1619578787311" />
+    <state width="792" height="226" key="GridCell.Tab.0.center" timestamp="1620704073379">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.center/-1112.168.1112.770/0.0.1680.1050@0.0.1680.1050" timestamp="1620097759531" />
+    <state width="792" height="226" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1620704073379" />
+    <state width="1638" height="272" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1619578787310" />
+    <state width="792" height="226" key="GridCell.Tab.0.left" timestamp="1620704073377">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.left/-1112.168.1112.770/0.0.1680.1050@0.0.1680.1050" timestamp="1620097759530" />
+    <state width="792" height="226" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1620704073377" />
+    <state width="1638" height="272" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1619578787309" />
+    <state width="792" height="226" key="GridCell.Tab.0.right" timestamp="1620704073379">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.right/-1112.168.1112.770/0.0.1680.1050@0.0.1680.1050" timestamp="1620097759532" />
+    <state width="792" height="226" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1620704073379" />
+    <state width="1638" height="272" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1619578787310" />
+    <state x="349" y="173" key="SettingsEditor" timestamp="1619272241281">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="349" y="173" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1619272241281" />
+    <state x="505" y="233" width="670" height="693" key="search.everywhere.popup" timestamp="1620634829823">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="693" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1620634829823" />
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1619527444652" />
+    <state x="570" y="448" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1619338781117">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="570" y="448" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1619338781117" />
+  </component>
+</project>

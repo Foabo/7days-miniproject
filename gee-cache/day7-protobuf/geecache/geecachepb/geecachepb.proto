@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package geecachepb;
+option go_package = "/";
+
+// Request与我们定义的url /_geecache/<group>/<name>需要的参数吻合
+message Request{
+  string group = 1;
+  string key = 2;
+}
+// Response只有一个返回字段，类型为Byte数组
+message Response {
+  bytes value = 1;
+}
+
+service GroupCache {
+  rpc Get(Request) returns (Response);
+}
+
